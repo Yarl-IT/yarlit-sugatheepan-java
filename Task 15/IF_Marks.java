@@ -1,4 +1,4 @@
-class If_Marks {
+class IF_Marks {
 	public static void main(String args []) {
 		int student_mark = 55;
 		
